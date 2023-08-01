@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Proyecto_Dashboard</string>
+
+    <string name="productos">Productos</string>
+    <string name="destacados">Destacados</string>
+    <string name="categorias">Categorias</string>
+    <string name="ab1_inversions">Inversions</string>
+    <string name="ab2_quick_yoga">Quick yoga</string>
+    <string name="ab3_stretching">Stretching</string>
+    /*String categorias*/
+    <string name="Huevos">Huevos</string>
+    <string name="Carnes">Carnes</string>
+    <string name="Verduras">Verduras</string>
+    <string name="Frutas">Frutas</string>
+    <string name="Postres">Postres</string>
+
+    /*String productos*/
+    <string name="Carne">Carne de Res</string>
+    <string name="Leche">Leche</string>
+    <string name="Miel">Miel</string>
+
+    /*String Canal de Notificaciones*/
+    <string name="canal_tienda">CanalTienda</string>
+    <string name="canal_notificaciones">Canal de Notificaciones Tienda CBA</string>
+    <string name="titulo1">Esto e suna prueba de un exto largo para ver
+    el scroll parallax que me interesa mucho ya que puede ser muy lindo pero todo depende si
+    es largo y puede estar bastante bien poorque se va a ver muy bien vamos a escribir mas
+        para ver que tanto alzanca sy si podria ser viable poner eso o mejor un show dialog y ya
+    </string>
+
+    <string name="flores1">Amapola</string>
+    <string name="flores2">Girasol</string>
+    <string name="flores3">Clavel</string>
+    <string name="flores4">Rosa</string>
+    <string name="flores5">Astromelia</string>
+    <string name="flores6">Flor</string>
+
+    <string name="descflores1">Flor de especie Amapola</string>
+    <string name="descflores2">Flor de especie Girasol</string>
+    <string name="descflores3">Flor de especie Clavel</string>
+    <string name="descflores4">Flor de especie Rosa</string>
+    <string name="descflores5">Flor de especie Astromelia</string>
+    <string name="descflores6">Flor de especie Flor</string>
+
+
+    <string name="frutas1">Manzana</string>
+    <string name="frutas2">Pera</string>
+    <string name="frutas3">Banano</string>
+    <string name="frutas4">Platano</string>
+    <string name="frutas5">Lechuga</string>
+    <string name="frutas6">Tomate</string>
+
+    <string name="descfrutas1">La manzana o poma es el fruto comestible de la especie Malus domestica</string>
+    <string name="descfrutas2">Se denomina pera al fruto de distintas especies del género Pyrus</string>
+    <string name="descfrutas3">La banana conocido también como banano</string>
+    <string name="descfrutas4">El platano conocido también como banano</string>
+    <string name="descfrutas5">La lechuga es una rica fuente de vitamina K y vitamina A</string>
+    <string name="descfrutas6">El tomate es el fruto de la planta Solanum lycopersicum, </string>
+
+    <string name="huevos1">Huevos AA</string>
+    <string name="huevos2">Huevos A</string>
+    <string name="huevos3">Huevos B</string>
+    <string name="huevos4">Huevos Jumbo</string>
+
+    <string name="lacteos1">Yogurt de cabra</string>
+    <string name="lacteos2">Leche</string>
+    <string name="lacteos3">Leche de cabra</string>
+    <string name="lacteos4">Queso</string>
+    <string name="lacteos5">Yogurt griego</string>
+    <string name="lacteos6">Kumis</string>
+
+    <string name="desclacteos1">Cabra 100%. Entera. Con Prebióticos y Probióticos= Simbiótico</string>
+    <string name="desclacteos2">La leche (del latín: lac) es una secreción nutritiva de color blanquecino</string>
+    <string name="desclacteos3">Cabra 100%. Entera. Con Prebióticos y Probióticos= Simbiótico</string>
+    <string name="desclacteos4">El queso es un alimento sólido que se obtiene por maduración</string>
+    <string name="desclacteos5">El yogur griego, también llamado labne, es el yogur que se cola para retirar el suero</string>
+    <string name="desclacteos6">El kumis es la bebida tradicional elaborada por los residentes</string>
+
+</resources>

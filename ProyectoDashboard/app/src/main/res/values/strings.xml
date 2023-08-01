@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProyectoDashboard</string>
+    <string name="canal_tienda">CanalTienda</string>
+    <string name="canal_notificaciones">Canal de Notificaciones Tienda CBA</string>
+
+    <string name="titulo1">Esto e suna prueba de un exto largo para ver
+    el scroll parallax que me interesa mucho ya que puede ser muy lindo pero todo depende si
+    es largo y puede estar bastante bien poorque se va a ver muy bien vamos a escribir mas
+        para ver que tanto alzanca sy si podria ser viable poner eso o mejor un show dialog y ya
+    </string>
+</resources>

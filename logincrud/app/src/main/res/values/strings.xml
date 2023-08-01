@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">logincrud</string>
+    <string name="back_button">back</string>
+</resources>
